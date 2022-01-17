@@ -9,11 +9,11 @@ export default function Social() {
   const medium_link = "/";
   return (
     <div className="social-row">
-      {/* <Link href="/" target="_blank">
+      <Link href="https://github.com/Everlastfinance" target="_blank">
         <SvgIcon color="primary" component={GitHub} />
-      </Link> */}
+      </Link>
 
-      <Link href="https://t.me/bigheaddao" target="_blank">
+      <Link href="#" target="_blank">
         <SvgIcon color="primary" component={Telegram} />
       </Link>
 
@@ -21,11 +21,11 @@ export default function Social() {
         <SvgIcon color="primary" component={Medium} />
       </Link> */}
 
-      <Link href="https://twitter.com/BigheadDao" target="_blank">
+      <Link href="https://twitter.com/EverlastFinance?t=7yMsdWjiQ2i4hVAiijP2Vw&s=09" target="_blank">
         <SvgIcon color="primary" component={Twitter} />
       </Link>
 
-      <Link href="https://discord.gg/SPBdfrQwfb" target="_blank">
+      <Link href="https://discord.gg/Qbv7dKQVzx" target="_blank">
         <SvgIcon color="primary" component={Discord} />
       </Link>
     </div>
