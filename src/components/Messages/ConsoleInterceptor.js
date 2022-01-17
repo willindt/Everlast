@@ -9,7 +9,7 @@ var consoleInterceptor = function (message) {
   if (interceptedConsoleMessages.includes(message)) {
     store.dispatch(error(message));
   }
-  console._error_old(message);
+  // console._error_old(message);
 };
 consoleInterceptor.isInterceptor = true;
 

@@ -204,9 +204,9 @@
 	border: 1px solid #000000;
 }
 
-.app.light .jss2 {
+/* .app.light .jss2 {
 	background: url(/static/media/light-back.png) no-repeat bottom;
-}
+} */
 
 .app.light .social-row svg path {
 	-webkit-transition: .3s;
@@ -494,9 +494,9 @@
 	        box-shadow: 7px 11px 63px rgba(255, 153, 0, 0.1);
 }
 
-.app.dark .jss2 {
+/* .app.dark .jss2 {
 	background: url(/static/media/light-back.png) no-repeat bottom;
-}
+} */
 
 .app.dark .social-row svg path {
 	-webkit-transition: .3s;
